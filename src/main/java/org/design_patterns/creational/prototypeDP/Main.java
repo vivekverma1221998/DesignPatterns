@@ -1,4 +1,4 @@
-package org.design_patterns.prototypeDP;
+package org.design_patterns.creational.prototypeDP;
 
 public class Main {
 
