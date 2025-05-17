@@ -1,4 +1,4 @@
-package org.design_patterns.behavioral.chain_of_responsiblity_DP;
+package org.design_patterns.behavioral.chain_of_responsiblity;
 
 public class Upi extends PaymentProcessorAbstract{
 
