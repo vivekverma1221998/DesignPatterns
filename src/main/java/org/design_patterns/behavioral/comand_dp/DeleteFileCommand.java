@@ -1,4 +1,4 @@
-package org.design_patterns.behavioral.commandDp;
+package org.design_patterns.behavioral.comand_dp;
 
 public class DeleteFileCommand implements FileCommand{
 
